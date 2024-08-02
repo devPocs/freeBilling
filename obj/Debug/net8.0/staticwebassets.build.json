@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "LGV35jjnafbEE5Dg4BNw4VM00l33tm+fn3wrZ0tpFzM=",
+  "Source": "freeBilling",
+  "BasePath": "_content/freeBilling",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "freeBilling\\wwwroot",
+      "Source": "freeBilling",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\dotNetProjects\\freeBilling\\wwwroot\\",
+      "BasePath": "_content/freeBilling",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\dotNetProjects\\freeBilling\\wwwroot\\index.html",
+      "SourceId": "freeBilling",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\dotNetProjects\\freeBilling\\wwwroot\\",
+      "BasePath": "_content/freeBilling",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
